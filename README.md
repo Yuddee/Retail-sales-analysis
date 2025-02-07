@@ -52,6 +52,7 @@ Seasonality Trends: The fourth quarter consistently outperformed other quarters,
 Annual Growth: Sales peaked in 2010, contributing £8.7 million in revenue.
 
 Customer Behavior:
+
 •	39.5% of purchases were made by repeat buyers. 
 
 •	24% of purchases were made by new customers.
@@ -61,6 +62,7 @@ Customer Behavior:
 Geographic Insights: The UK was the leading market, contributing £14.7 million in sales. Other high-performing markets included EIRE, the Netherlands, Germany, and France.
 
 Product Performance:
+
 The top-performing products were Regency Cake Stand Tier 3, White Hanging Heart T-Light Holder, and Paper Craft Little Birdie.
 
 Regency Cake Stand Tier 3 generated £286,486 from 24,914 purchases.
