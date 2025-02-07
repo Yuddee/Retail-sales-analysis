@@ -42,7 +42,7 @@ The DAX code used for this report can be found here (link).
 # Visualization
 
 Developed measures for key performance metrics such as total quantity sold, total revenue, and average revenue.
-Interactive dashboards and visualizations in Power BI illustrate the findings (link to report).
+Interactive dashboards and visualizations in Power BI illustrate the findings (Retail Sales Report.pdf).
 
 #   Key Insights
 Sales Performance: A total of 11 million products were sold, generating £17.74 million in revenue across the two time periods.
